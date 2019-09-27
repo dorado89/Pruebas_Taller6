@@ -1,0 +1,20 @@
+{
+    "name": "Punto2",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "fox",
+    "contributors": [],
+    "dependencies": {
+        "mz": "2.7.0",
+        "resemblejs": "3.2.3"
+    },
+    "scripts": {
+        "resemble": "node resemblejs.js"
+    }
+}
